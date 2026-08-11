@@ -1,16 +1,35 @@
 ## Hi there 👋
+#  I'm SriVyshnavi
 
-<!--
-**srivyshnavi3/srivyshnavi3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student at [IIITDM KANCHEEPURAM]
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning: C, C++, Data Structures, Web Development
+- 💻 Interested in: Software Development & Technology
+- 🔨 Currently working on: [student well being monitor]
+- 📚 Learning: [currently learning c++,AI python]
+
+## 🛠️ Skills
+
+- C
+-python (core)
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+  
+
+## 🚀 Projects
+
+### Student Burnout Detection & Well-Being Monitoring System
+[it is for students to track their mental health under academic pressure and a reminder to take care of themselves ]
+
+### [student task organiser]
+[it is to organise the study tasks]
+
+
+## 📫 Connect With Me
+
+- LinkedIn: [surabhi sri vyshnavi]
+- Email: [surabhivyshnavi@gmail.com]
