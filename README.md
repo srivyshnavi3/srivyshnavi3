@@ -1,7 +1,7 @@
 ## Hi there 👋
 #  I'm SriVyshnavi
 
-🎓 CSE Student at [IIITDM KANCHEEPURAM]
+🎓 CSE Student at [IIITDM KANCHEEPURAM (2025-30)]
 
 ## 👩‍💻 About Me
 
