@@ -13,7 +13,7 @@
 ## 🛠️ Skills
 
 - C
--python (core)
+- python (core)
 - HTML
 - CSS
 - JavaScript
