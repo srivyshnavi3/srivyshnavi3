@@ -30,6 +30,4 @@
 
 
 ## 📫 Connect With Me
-
-- LinkedIn: [surabhi sri vyshnavi]
 - Email: [surabhivyshnavi@gmail.com]
